@@ -1,4 +1,4 @@
-public class pegawai {
+public class pegawai_ganjil {
     String nik, nama, bagian;
     double gaji_pokok;
     
